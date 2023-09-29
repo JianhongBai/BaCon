@@ -1,0 +1,1 @@
+python -m model.bacon --est_freq 10 --ce_warmup 1 --alpha 0 --beta 0.5 --dataset_name imagenet100 --labeled_classes 50

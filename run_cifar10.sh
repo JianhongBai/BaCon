@@ -1,0 +1,1 @@
+python -m model.bacon --est_freq 10 --ce_warmup 1 --alpha 0 --beta 0.5 --dataset_name cifar10 --labeled_classes 5 --imb_ratio 100 --lr 0.01

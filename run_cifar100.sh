@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python -m model.bacon --est_freq 10 --ce_warmup 1 --alpha 0 --beta 0.5
