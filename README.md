@@ -1,4 +1,4 @@
-# A Self-Balanced Co-Advice Contrastive Framework for Long-Tailed Open-World Classification.
+# Towards Distribution-Agnostic Generalized Category Discovery.
 
 **NIPS 2023:** This repository is the official implementation of [BaCon]().
 
