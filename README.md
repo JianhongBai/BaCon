@@ -57,13 +57,11 @@ The codebase is largely built on [GCD](https://github.com/CVMI-Lab/SimGCD) and [
 
 ## Citation
 ```
-@misc{bai2023distributionagnostic,
-      title={Towards Distribution-Agnostic Generalized Category Discovery}, 
-      author={Jianhong Bai and Zuozhu Liu and Hualiang Wang and Ruizhe Chen and Lianrui Mu and Xiaomeng Li and Joey Tianyi Zhou and Yang Feng and Jian Wu and Haoji Hu},
-      year={2023},
-      eprint={2310.01376},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{bai2023towards,
+  title={Towards Distribution-Agnostic Generalized Category Discovery},
+  author={Bai, Jianhong and Liu, Zuozhu and Wang, Hualiang and Chen, Ruizhe and Mu, Lianrui and Li, Xiaomeng and Zhou, Joey Tianyi and Feng, Yang and Wu, Jian and Hu, Haoji},
+  journal={arXiv preprint arXiv:2310.01376},
+  year={2023}
 }
 ```
 
